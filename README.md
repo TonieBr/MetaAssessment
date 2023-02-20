@@ -1,6 +1,5 @@
 # META ASSESSMENT - A PRIVACY AWARENESS TOOL
 # MADE AS FINAL PROJECT OF CS50
-# VIDEO DEMO: https://youtu.be/GYHrF91fhds
 # DESCRIPTION:
 
 More often than not, image files are not purely made up of graphical pixels. Recall that in PSET4 "Filter" some metadata was stored in headers. Such metadata can consist of a wide array of information, ranging from relatively benign data such as the colour palette, to confidential information as name, location, date or device. Given a large enough dataset that is not protected, it becomes relatively easy to cross-validate one's identity - a fact used by forensics and doxxers alike. Especially known is the EXIF data embedded on (mostly) JPG files, which commonly include coordinates of where the picture was taken. Besides that, there are also other subsections - depending on the device and software used - of metadata such as IPTC (Press Data), Photoshop details, facial recognition metadata and so on and so forth.

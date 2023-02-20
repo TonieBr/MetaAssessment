@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MetaData:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MetaData_jar</output-path>
+    <root id="archive" name="MetaData.jar">
+      <element id="module-output" name="MetaData" />
+    </root>
+  </artifact>
+</component>

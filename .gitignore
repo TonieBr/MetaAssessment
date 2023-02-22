@@ -1,3 +1,5 @@
 /README.md
 /MetaData.iml
+/Source/out/*
+/Source/.idea/*
 .idea/*
